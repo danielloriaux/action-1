@@ -2,7 +2,7 @@
     "enable": true,
     "version": 1,
     "build": "npm run build",
-    "main": "./dist/src/main.js",
+    "main": "./dist/main.js",
     "inputs": [
         {
             "name": "inA",
