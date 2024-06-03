@@ -1,0 +1,22 @@
+{
+    "enable": true,
+    "version": 1,
+    "build": "npm run build",
+    "main": ".dist/src/main.js",
+    "inputs": [
+        {
+            "name": "inA",
+            "type": "string"
+        },
+        {
+            "name": "inB",
+            "type": "string"
+        }
+    ],
+    "outputs": [
+        {
+            "name": "out",
+            "type": "string"
+        }
+    ]
+}
